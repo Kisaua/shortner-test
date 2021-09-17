@@ -1,0 +1,12 @@
+short/
+
+*.log
+*.pot
+__pycache__
+db.sqlite3
+media
+
+.history
+
+.DS_Store 
+
